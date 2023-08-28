@@ -8,3 +8,7 @@
 ### Pie Chart
 
   Python script for visualising tsv table data in pie chart using python libraries.
+
+### MultipleRMSD
+
+  If you have a folder of rmsd files you want to plot, this script will be helpful.
