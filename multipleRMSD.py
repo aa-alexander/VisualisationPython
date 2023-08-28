@@ -1,3 +1,5 @@
+# this script will take all the files in the directory and create the graph; you can tweek it to do for certain files by specifying the names.
+
 import matplotlib.pyplot as plt
 import numpy as np
 import os
